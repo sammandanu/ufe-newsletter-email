@@ -2,3 +2,4 @@
 scratch_*
 scratch_svg/
 *.tmp
+.vercel
